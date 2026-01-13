@@ -1,2 +1,3 @@
 # Basic_Calculator_Python
-My first ever project!
+A simple command-line calculator built using Python.
+This program performs basic arithmetic operations such as addition, subtraction, multiplication, and division based on user input.
